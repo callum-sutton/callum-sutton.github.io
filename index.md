@@ -13,7 +13,7 @@ This is my Honours thesis [Differential algebraic geometry and the Geometric Mor
 ## Undergraduate Writings
 Here are some expository writings, made during my time as an undergraduate:
 
-* [The algebraic $K$-theory of finite fields][K-theory]
+* [The algebraic $$K$$-theory of finite fields][K-theory]
 
 
 [my_cv]: /cv/callum_sutton_CV.pdf
