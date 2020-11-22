@@ -5,6 +5,12 @@
 layout: page
 ---
 
-I'm a fourth year student at the ANU.
+I'm a fourth year maths student at the Australian National University. This is my [CV][my_cv].
 
-## Writing
+## Honours Thesis
+
+
+## Undergraduate Writings
+
+
+[my_cv]: /cv/callum_sutton_CV.pdf
