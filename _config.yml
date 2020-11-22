@@ -23,7 +23,7 @@ github_username:  callum-sutton
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-cayman
+theme: minima
 minima_skin: "dark"
 # minima: 
 #  skin: dark
