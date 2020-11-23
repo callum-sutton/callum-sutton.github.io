@@ -5,7 +5,12 @@
 layout: page
 ---
 
-![](/picture/IMG_4109.JPG =100x20)
+<div class="intro">
+
+![Photo of Callum](/picture/IMG_4109.JPG){:#photo}
+
+<div>
+
 I'm a fourth year maths student at the Australian National University. This is my [CV][my_cv].
 
 ## Honours Thesis
