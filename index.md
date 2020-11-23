@@ -12,7 +12,7 @@ layout: page
 <div>
 
 
-I'm a fourth year maths student at the Australian National University. This is my [CV][my_cv].
+I'm a fourth year maths student at the Australian National University. This is my [CV][my_cv]. 
 
 </div>
 
