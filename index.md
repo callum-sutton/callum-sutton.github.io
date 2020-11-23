@@ -22,7 +22,7 @@ I'm a fourth year maths student at the Australian National University in Canberr
 This is my Honours thesis [Differential algebraic geometry and the Geometric Mordell Conjecture][my_thesis], written under the supervision of Dr James Borger. 
 
 ## Writing
-Here are some expository writings which I produced during my time as an undergraduate:
+Here are some expository writings which I produced during my time as an undergraduate: 
 
 * [The algebraic K-theory of finite fields][K-theory]
 
