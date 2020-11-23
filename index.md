@@ -7,7 +7,7 @@ layout: page
 
 <div class="intro">
 
-![Photo of Callum](/picture/IMG_4109_4.JPG)
+![Photo of Callum](/picture/IMG_4109_5.JPG)
 
 <div>
 
