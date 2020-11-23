@@ -7,12 +7,13 @@ layout: page
 
 <div class="intro">
 
-![Photo of Callum](/picture/IMG_4109_3.JPG)
+![Photo of Callum](/picture/IMG_4109_4.JPG)
 
 <div>
 
 
-I'm a fourth year maths student at the Australian National University in Canberra. This is my [CV][my_cv]. 
+I'm a fourth year maths student at the Australian National University in Canberra.
+This is my [CV][my_cv]. 
 
 </div>
 
