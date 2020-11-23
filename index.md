@@ -5,15 +5,19 @@
 layout: page
 ---
 
-<div class="intro">
+asd           |  asd
+:-------------------------:|:-------------------------:
+I'm a fourth year maths student at the [Australian National University](https://www.anu.edu.au/) in Canberra.
+This is my [CV][my_cv].  |  ![Photo of Callum](/picture/IMG_4109_5.JPG)
 
-![Photo of Callum](/picture/IMG_4109_5.JPG)
-
-<div>
 
 
-I'm a fourth year maths student at the Australian National University in Canberra.
-This is my [CV][my_cv]. 
+
+
+
+
+
+ 
 
 </div>
 
