@@ -5,11 +5,9 @@
 layout: page
 ---
 
-<div class="intro">
 
-![Photo of Callum](/picture/IMG_4109.JPG =100x20){:#photo}
+![Photo of Callum](/picture/IMG_4109.JPG)
 
-<div>
 
 I'm a fourth year maths student at the Australian National University. This is my [CV][my_cv].
 
@@ -24,4 +22,4 @@ Here are some expository writings which I produced during my time as an undergra
 
 [my_cv]: /cv/callum_sutton_CV.pdf
 [my_thesis]: /thesis/thesis.pdf
-[K-theory]: /writing/the_algebraic_K_theory_of_finite_fields
+[K-theory]: /writing/the_algebraic_K_theory_of_finite_fields.pdf
