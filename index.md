@@ -5,11 +5,18 @@
 layout: page
 ---
 
+<div class="intro">
 
-![Photo of Callum](/picture/IMG_4109.JPG)
+![Photo of Callum](/picture/IMG_4109.JPG){:#photo}
+
+<div>
 
 
 I'm a fourth year maths student at the Australian National University. This is my [CV][my_cv].
+
+</div>
+
+
 
 ## Honours Thesis
 This is my Honours thesis [Differential algebraic geometry and the Geometric Mordell Conjecture][my_thesis]. 
