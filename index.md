@@ -6,8 +6,8 @@ layout: page
 ---
 
 <div>
-    <p style="float: left;"><img src="/picture/IMG_4109_5.JPG" border="1px"></p>
-    <p> I'm a fourth year maths student at the [Australian National University](https://www.anu.edu.au/) in Canberra. This is my [CV][my_cv]. </p>
+    <p style="float: right;"><img src="/picture/IMG_4109_5.JPG"> </p>
+    <p> I'm a fourth year maths student at the <a href="https://www.anu.edu.au/">Australian National University</a> in Canberra. This is my <a href="/cv/callum_sutton_CV.pdf">CV</a>. </p>  
 </div>
 
 
@@ -23,3 +23,4 @@ Here are some expository writings which I produced during my time as an undergra
 [my_cv]: /cv/callum_sutton_CV.pdf
 [my_thesis]: /thesis/thesis.pdf
 [K-theory]: /writing/the_algebraic_K_theory_of_finite_fields.pdf
+[ANU]: https://www.anu.edu.au/
