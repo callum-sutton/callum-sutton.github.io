@@ -5,15 +5,16 @@
 layout: page
 ---
 
+![](/picture/IMG_4109.JPG)
 I'm a fourth year maths student at the Australian National University. This is my [CV][my_cv].
 
 ## Honours Thesis
 This is my Honours thesis [Differential algebraic geometry and the Geometric Mordell Conjecture][my_thesis]. 
 
-## Undergraduate Writings
-Here are some expository writings, made during my time as an undergraduate:
+## Writing
+Here are some expository writings which I produced during my time as an undergraduate:
 
-* [The algebraic $$K$$-theory of finite fields][K-theory]
+* [The algebraic K-theory of finite fields][K-theory]
 
 
 [my_cv]: /cv/callum_sutton_CV.pdf
