@@ -22,7 +22,7 @@ url: "https://callum-sutton.github.io" # the base hostname & protocol for your s
 github_username:  callum-sutton
 
 # Build settings
-markdown: kramdown
+markdown: GFM
 theme: minima
 minima_skin: "dark"
 # minima: 
