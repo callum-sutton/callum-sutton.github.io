@@ -12,7 +12,7 @@ layout: page
 
 
 ## Honours Thesis
-This is my Honours thesis [Differential algebraic geometry and the Geometric Mordell Conjecture][my_thesis], written under the supervision of Dr James Borger. 
+This is my Honours thesis, [Differential algebraic geometry and the Geometric Mordell Conjecture][my_thesis], written under the supervision of [Dr. James Borger][jim]. 
 
 ## Writing
 Here are some expository writings which I produced during my time as an undergraduate: 
@@ -24,3 +24,4 @@ Here are some expository writings which I produced during my time as an undergra
 [my_thesis]: /thesis/thesis.pdf
 [K-theory]: /writing/the_algebraic_K_theory_of_finite_fields.pdf
 [ANU]: https://www.anu.edu.au/
+[jim]: https://maths-people.anu.edu.au/~borger/
