@@ -19,6 +19,7 @@ Here are some expository writings which I produced during my time as an undergra
 
 * [The algebraic K-theory of finite fields][K-theory] (June 2020).
 * [C*-algebras and the Gelfand--Naimark Theorem][C-star] (November 2019).
+* [Coxeter groups and CAT(0)-complexes][Coxeter] (May 2019).
 
 [my_cv]: /cv/callum_sutton_CV.pdf
 [my_thesis]: /thesis/thesis.pdf
@@ -26,3 +27,4 @@ Here are some expository writings which I produced during my time as an undergra
 [ANU]: https://www.anu.edu.au/
 [jim]: https://maths-people.anu.edu.au/~borger/
 [C-star]: /writing/C_star_algebras_and_the_Gelfand_Naimark_Theorem.pdf
+[Coxeter]: /writing/Coxeter_groups_CAT(0)_complexes.pdf
